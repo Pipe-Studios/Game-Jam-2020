@@ -1,13 +1,11 @@
-# Game Jam 2020
+# Run-on
  
-It is the year 3021 - 1006 years since 29th Prime Minister of Australia Malcolm Turnbull's National Broadband Network rollout. The earth has prospered since then as Turnbull's masterful management of creating an interconnected world fostered a new generation of innovators and highly skilled individuals.
+Run-On is our submission for GameMaker's Toolkit's 2020 GameJam where the theme was: Out Of Control.
 
-But now, the human race has expanded and earth's sky is no longer the limit.
+This game strips you of any action besides moving left and right. Everything else - jumping, sprinting, crawling etc. - is controlled by other animals which you run along with. When they jump, you jump. When they crawl, you crawl.
 
-Humanity has called upon Malcolm Turnbull once again, reviving him from his cryogenic stasis, so he can give to the interstellar world what he brought to earth many years ago - a robust Broadband Network. 
-
-Traverse the galaxy with your trusty mechanic, BJ. Navigate to your nearest Wunnings Warehouse. Connect up the planets all while avoiding some pesky Space Bogans and grace the galaxy with the power of an Interstellar National Broadband Network Initiative.
+Watch them carefully and use their abilities to guide your way through this short platformer.
 
 ## Download
 
-https://pipe-studios.itch.io/space-commander-malcolm-turnbull
+https://pipe-studios.itch.io/run-on
