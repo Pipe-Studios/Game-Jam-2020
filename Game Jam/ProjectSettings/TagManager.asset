@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Jumping Waypoint End
+  - Jumping Waypoint Start
+  - Sprinting Waypoint Start
+  - Sprinting Waypoint End
+  - Crouching Waypoint Start
+  - Crouching Waypoint End
+  - Checkpoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Foreground L0
+  - Midground L0
+  - Background L3
+  - Foreground L1
+  - Midground L1
+  - Background L1
+  - Foreground L2
+  - Midground L2
+  - Background L2
+  - Foreground L3
+  - Midground L3
+  - Background L3
+  - Background L0
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2828439129
+    locked: 0
+  - name: Midground
+    uniqueID: 501562283
+    locked: 0
+  - name: Foreground
+    uniqueID: 1888261253
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background L3
+    uniqueID: 427033921
+    locked: 0
+  - name: Foreground L3
+    uniqueID: 385175177
+    locked: 0
+  - name: Impala
+    uniqueID: 1684189487
+    locked: 0
+  - name: Midground L3
+    uniqueID: 4106435181
+    locked: 0
+  - name: Background L2
+    uniqueID: 1498991307
+    locked: 0
+  - name: Foreground L2
+    uniqueID: 4136092001
+    locked: 0
+  - name: Cheetah
+    uniqueID: 1236346569
+    locked: 0
+  - name: Midground L2
+    uniqueID: 2746259707
+    locked: 0
+  - name: Background L1
+    uniqueID: 1309881897
+    locked: 0
+  - name: Foreground L1
+    uniqueID: 902245897
+    locked: 0
+  - name: Hog
+    uniqueID: 3835174215
+    locked: 0
+  - name: Midground L1
+    uniqueID: 628534069
+    locked: 0
+  - name: Background L0
+    uniqueID: 3690378341
+    locked: 0
+  - name: Foreground L0
+    uniqueID: 3689322375
+    locked: 0
+  - name: Human
+    uniqueID: 3930729335
+    locked: 0
+  - name: Midground L0
+    uniqueID: 46723487
+    locked: 0
